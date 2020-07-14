@@ -1,2 +1,0 @@
-# grpcDemo
-grpc project
