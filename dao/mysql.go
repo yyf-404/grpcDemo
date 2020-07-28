@@ -1,4 +1,4 @@
-package yy
+package dao
 
 import (
 	"database/sql"
